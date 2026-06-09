@@ -1,12 +1,21 @@
 # 🤖 Awesome AI SuperSnippets
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-SuperSnippets?style=social)](https://github.com/ishandutta2007/Awesome-AI-SuperSnippets)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-SuperSnippets?style=social)](https://github.com/ishandutta2007/Awesome-AI-SuperSnippets/fork)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue)](#)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > 🚀 **A curated collection of production-ready AI Agent code snippets, examples, and implementations across multiple domains and frameworks.**
+
+</div>
 
 ## 📋 Table of Contents
 
